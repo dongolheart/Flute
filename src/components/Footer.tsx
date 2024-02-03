@@ -21,8 +21,9 @@ export const Footer = () => {
   <Image className="animate-spin animate-twice bg-green-500 rounded-full" src="/footer.png" alt=" Logo" width={100} height={50} />
 
        
- <a target="_blank" href='https://fluteforflute.com/'><span className='animate-wiggle-more animate-infinite animate-ease-in-out'>
- यहाँ क्लिक गर्नुहोस् अझै सिक          </span></a>
+ <span className='animate-wiggle-more animate-infinite animate-ease-in-out'>
+   <a target="_blank" href='https://fluteforflute.com/'>
+ यहाँ क्लिक गर्नुहोस् अझै सिक          </a></span>
 
           <span className="animate-wiggle-more animate-infinite animate-ease-in-out ">
            <a target="_blank" href='https://www.flutenepal.com/'>
