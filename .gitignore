@@ -1,0 +1,13 @@
+# dependencies
+/node_modules
+/.pnp
+.yarn/cache
+yarn-error.log
+
+# next.js
+.next/
+out/
+
+# editor
+.vscode/
+*.sublime-workspace
