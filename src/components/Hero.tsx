@@ -27,7 +27,7 @@ Flute Learning Website
         </div>
 
         <div className="flex flex-col sm:flex-row items-center">
-        <div className="relative w-full flex gap-6 snap-x snap-mandatory overflow-x-auto pb-14">
+        <div className="relative w-full flex gap-6 snap-x snap-mandatory overflow-x-auto pb-14 hide-scroll-bar">
         <div className="snap-center shrink-0">
           <div className="shrink-0 w-4 sm:w-48"></div>
         </div>
