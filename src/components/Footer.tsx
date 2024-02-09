@@ -18,7 +18,7 @@ export const Footer = () => {
    <aside className='flex flex-wrap gap-5'>cm
     <a>English Song </a>
     <a>Nepali Song </a>
-  <Image className="animate-spin animate-twice bg-green-500 rounded-full" src="/footer.png" alt=" Logo" width={100} height={50} />
+  <Image className="animate-spin animate-twice bg-green-500 rounded-full" src="/Footer.png" alt=" Logo" width={100} height={50} />
 
        
  <span className='animate-wiggle-more animate-infinite animate-ease-in-out'>
